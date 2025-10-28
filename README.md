@@ -39,12 +39,14 @@ A monthly sentiment score was calculated for each employee to identify top perfo
 ---
 
 ## Outputs
-File	Description
-top_positive_employees.csv	Top 3 positive employees
-top_negative_employees.csv	Top 3 negative employees
-flight_risk_employees.csv	Employees meeting 30-day risk threshold
-.png files	Sentiment distribution, trends, and model validation
+### File	Description
+- top_positive_employees.csv	Top 3 positive employees
+- top_negative_employees.csv	Top 3 negative employees
+- flight_risk_employees.csv	Employees meeting 30-day risk threshold
+- .png files	Sentiment distribution, trends, and model validation
 
-Tech Stack
+--- 
+
+## Tech Stack
 Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TextBlob
 
