@@ -33,8 +33,8 @@ A monthly sentiment score was calculated for each employee to identify top perfo
 
 ## How to Run
 ### Install Dependencies
-pip install pandas numpy scikit-learn matplotlib seaborn textblob
-python -m textblob.download_corpora
+- pip install pandas numpy scikit-learn matplotlib seaborn textblob
+- python -m textblob.download_corpora
 
 ---
 
